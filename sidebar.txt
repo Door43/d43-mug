@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mug:home|Door43 (mug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mug|d43-mug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mug/archive/master.zip|d43-mug.zip]]
+
+**Recent Changes**
+{{changes>ns = mug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mug|Ethnologue data]]
+
